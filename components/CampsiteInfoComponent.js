@@ -30,7 +30,7 @@ class CampsiteInfo extends Component {
     }
 
     static navigationOptions = {
-        title: 'Campsite Information'
+        title: 'Book Information'
     }
 
     render() {
