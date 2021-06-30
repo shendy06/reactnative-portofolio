@@ -246,7 +246,7 @@ const MainNavigator = createDrawerNavigator(
                 )
             }
         },
-        About: {
+        About: { 
             screen: AboutNavigator,
             navigationOptions: {
                 drawerLabel: 'About Us',
